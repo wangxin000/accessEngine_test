@@ -629,7 +629,7 @@ class HTMLTestRunner(Template_mixin):
             report = report,
             ending = ending,
         )
-        self.stream.write(output.encode())
+        self.stream.write(output.encode("GBK"))
 
 
     def _generate_stylesheet(self):
