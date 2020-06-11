@@ -34,8 +34,8 @@ def send_email(report_file):
 
    # msg['From'] = 'wang.xin@intellif.com' #单人收件
     msg['From'] = sender
-    #msg['To'] = 'wang.xin@intellif.com'
-    msg['To'] = ','.join(receiver)# 这里必须要把多个邮箱按照逗号拼接为字符串
+    msg['To'] = 'wang.xin@intellif.com'
+    #msg['To'] = ','.join(receiver)# 这里必须要把多个邮箱按照逗号拼接为字符串
     msg['Subject'] = Header(subject, 'utf-8')  # 从配置文件中读取
 
     att1 = MIMEText(open(report_file, 'rb').read(), 'base64', 'utf-8')  # 从配置文件中读取

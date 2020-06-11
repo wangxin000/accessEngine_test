@@ -52,8 +52,8 @@
       <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="458">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -79,23 +79,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_openPlatform_zhongxingVedio.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/user/test_openPlatform_zhongxingVedio.py">
+      <file leaf-file-name="run_all.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_all.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="209">
+              <caret line="11" column="111" selection-start-line="11" selection-start-column="111" selection-end-line="11" selection-end-column="111" />
+              <folding>
+                <element signature="e#42#57#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run_all.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run_all.py">
+      <file leaf-file-name="HTMLTestReportCN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/HTMLTestReportCN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="237">
+              <caret line="632" column="0" selection-start-line="632" selection-start-column="0" selection-end-line="632" selection-end-column="0" />
               <folding>
-                <element signature="e#42#57#0" expanded="true" />
+                <element signature="e#14#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,8 +116,8 @@
       <file leaf-file-name="send_email.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/send_email.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="38" column="57" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+            <state relative-caret-position="259">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -167,10 +169,7 @@
         <option value="$PROJECT_DIR$/lib/htmlTest.py" />
         <option value="$PROJECT_DIR$/lib/HTML.py" />
         <option value="$PROJECT_DIR$/lib/HTMLTestReport.py" />
-        <option value="$PROJECT_DIR$/lib/send_email.py" />
-        <option value="$PROJECT_DIR$/lib/HTMLTestReportCN.py" />
         <option value="$PROJECT_DIR$/test/user/test_ClosePlatform_1400PlatForm.py" />
-        <option value="$PROJECT_DIR$/config/config.py" />
         <option value="$PROJECT_DIR$/test/user/test_ClosePlatform_DataGateWay.py" />
         <option value="$PROJECT_DIR$/test/user/test_ClosePlatform_GB28281PlatForm.py" />
         <option value="$PROJECT_DIR$/test/user/test_ClosePlatform_HKipcNVR.py" />
@@ -186,7 +185,10 @@
         <option value="$PROJECT_DIR$/test/user/test_openPlatform_zhongxingVedio.py" />
         <option value="$PROJECT_DIR$/test/user/test_start_CareraTask.py" />
         <option value="$PROJECT_DIR$/test/user/test_stop_CareraTask.py" />
+        <option value="$PROJECT_DIR$/lib/HTMLTestReportCN.py" />
         <option value="$PROJECT_DIR$/run_all.py" />
+        <option value="$PROJECT_DIR$/config/config.py" />
+        <option value="$PROJECT_DIR$/lib/send_email.py" />
       </list>
     </option>
   </component>
@@ -806,13 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/HTMLTestReportCN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="191" column="56" selection-start-line="191" selection-start-column="54" selection-end-line="191" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/htmlTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -966,16 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding>
-            <element signature="e#42#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/read_excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -984,18 +969,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HTMLTestReportCN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="632" column="0" selection-start-line="632" selection-start-column="0" selection-end-line="632" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="111" selection-start-line="11" selection-start-column="111" selection-end-line="11" selection-end-column="111" />
+          <folding>
+            <element signature="e#42#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="458">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/send_email.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="38" column="57" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+        <state relative-caret-position="259">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding />
         </state>
       </provider>
