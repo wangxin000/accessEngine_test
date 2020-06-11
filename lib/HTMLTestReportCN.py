@@ -1,7 +1,9 @@
 #coding=utf-8
 from io import BytesIO
 import unittest
-
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 # URL: http://tungwaiyip.info/software/HTMLTestRunner.html
 from io import BytesIO as StringIO
 
@@ -629,7 +631,7 @@ class HTMLTestRunner(Template_mixin):
             report = report,
             ending = ending,
         )
-        self.stream.write(output.encode("GBK"))
+        self.stream.write(output.encode("utf8"))
 
 
     def _generate_stylesheet(self):
