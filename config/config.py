@@ -21,11 +21,11 @@ logging.basicConfig(level=logging.DEBUG,  # log level
 
 
 # 数据库配置
-db_host = '115.28.108.130'
-db_port = 3306
-db_user = 'test'
-db_passwd = '123456'
-db = 'api_test'
+db_host = '192.168.11.92'
+db_port = 32000
+db_user = 'root'
+db_passwd = 'introcks1234'
+db = 'ifaas_basicinfo'
 
 # 邮件配置
 smtp_server = 'imap.exmail.qq.com'
@@ -38,5 +38,5 @@ receiver = 'wang.xin@intellif.com'  # 收件人
 subject = '接入引擎接口自动化测试报告'  # 邮件主题
 
 #接入引擎信息
-AccessEngine_ip = "192.168.13.210"
+AccessEngine_ip = "192.168.11.92"
 AccessEngine_port = 7788
