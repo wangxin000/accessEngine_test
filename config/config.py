@@ -33,8 +33,8 @@ smtp_user = 'wang.xin@intellif.com'
 smtp_password = 'Admin_123'
 
 sender = smtp_user  # 发件人
-receiver = 'wang.xin@intellif.com'  # 收件人
-#receiver = ['wang.xin@intellif.com',"peng.jidong@intellif.com","xiao.fen@intellif.com","li.zhiyuan@intellif.com","luo.zexuan@intellif.com","zhong.bin@intellif.com","engine_team@intellif.com"]  # 多人收件
+#receiver = 'wang.xin@intellif.com'  # 收件人
+receiver = ['wang.xin@intellif.com',"peng.jidong@intellif.com","xiao.fen@intellif.com","li.zhiyuan@intellif.com","luo.zexuan@intellif.com","zhong.bin@intellif.com","engine_team@intellif.com"]  # 多人收件
 subject = '接入引擎接口自动化测试报告'  # 邮件主题
 
 #接入引擎信息
